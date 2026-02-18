@@ -1,0 +1,1 @@
+function t(e,n,r){if(!e.trim())throw new Error("Ingredient name cannot be empty");return{name:e.trim(),category:n,fodmapLevel:r??"unknown"}}function i(e,n){if(e<=0)throw new Error("Portion amount must be positive");return{amount:e,unit:n}}export{t as a,i as b};

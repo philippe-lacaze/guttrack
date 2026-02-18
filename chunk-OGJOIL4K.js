@@ -1,0 +1,1 @@
+var a={abdominal_pain:"Douleur abdominale",bloating:"Ballonnements",diarrhea:"Diarrh\xE9e",constipation:"Constipation",nausea:"Naus\xE9e",fatigue:"Fatigue"},i=["abdominal_pain","bloating","diarrhea","constipation","nausea","fatigue"];export{a,i as b};

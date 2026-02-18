@@ -1,0 +1,1 @@
+import{P as o}from"./chunk-LQHLUY7B.js";var r=new o("MEAL_ENTRY_REPOSITORY"),T=new o("SYMPTOM_ENTRY_REPOSITORY"),R=new o("MEDICATION_ENTRY_REPOSITORY"),e=new o("AI_VISION_PORT"),i=new o("AI_TEXT_PORT"),n=new o("SETTINGS_PORT");export{r as a,T as b,R as c,e as d,i as e,n as f};
